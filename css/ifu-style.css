@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.warning {
+  border-left: 6px solid #c0392b;
+  background: #fdecea;
+  padding: 10px;
+  margin: 15px 0;
+}
+
+.caution {
+  border-left: 6px solid #f39c12;
+  background: #fff4e5;
+  padding: 10px;
+  margin: 15px 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+th {
+  background-color: #f4f4f4;
+}
